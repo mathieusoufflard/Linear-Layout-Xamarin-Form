@@ -1,0 +1,50 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Document\\mobilec\\linarLayout\\linarLayout\\linarLayout.csproj": {}
+  },
+  "projects": {
+    "F:\\Document\\mobilec\\linarLayout\\linarLayout\\linarLayout.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Document\\mobilec\\linarLayout\\linarLayout\\linarLayout.csproj",
+        "projectName": "linarLayout",
+        "projectPath": "F:\\Document\\mobilec\\linarLayout\\linarLayout\\linarLayout.csproj",
+        "packagesPath": "C:\\Users\\mathi\\.nuget\\packages\\",
+        "outputPath": "F:\\Document\\mobilec\\linarLayout\\linarLayout\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mathi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid81"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid81": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid81": {
+          "dependencies": {
+            "Xamarin.Android.Support.Design": {
+              "target": "Package",
+              "version": "[27.0.2.1, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,266 @@
+C:\Users\mathi\Documents\projets personel\mobile c#\linarLayout\linarLayout\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+C:\Users\mathi\Documents\projets personel\mobile c#\linarLayout\linarLayout\obj\Debug\81\linarLayout.nuget.stamp
+C:\Users\mathi\Documents\projets personel\mobile c#\linarLayout\linarLayout\obj\Debug\81\linarLayout.csprojAssemblyReference.cache
+C:\Users\mathi\Documents\projets personel\mobile c#\linarLayout\linarLayout\obj\Debug\81\libraryimports.cache.stamp
+C:\Users\mathi\Documents\projets personel\mobile c#\linarLayout\linarLayout\obj\Debug\81\res.flag
+C:\Users\mathi\Documents\projets personel\mobile c#\linarLayout\linarLayout\obj\Debug\81\linarLayout.dll
+C:\Users\mathi\Documents\projets personel\mobile c#\linarLayout\linarLayout\obj\Debug\81\linarLayout.pdb
+C:\Users\mathi\Documents\projets personel\mobile c#\linarLayout\linarLayout\bin\Debug\linarLayout.dll
+C:\Users\mathi\Documents\projets personel\mobile c#\linarLayout\linarLayout\bin\Debug\linarLayout.pdb
+C:\Users\mathi\Documents\projets personel\mobile c#\linarLayout\linarLayout\bin\Debug\linarLayout.linarLayout.apk
+C:\Users\mathi\Documents\projets personel\mobile c#\linarLayout\linarLayout\bin\Debug\linarLayout.linarLayout-Signed.apk
+C:\Users\mathi\Documents\projets personel\mobile c#\linarLayout\linarLayout\obj\Debug\81\linarLayout.csproj.CoreCompileInputs.cache
+C:\Users\mathi\Documents\projets personel\mobile c#\linarLayout\linarLayout\obj\Debug\81\android\bin\linarLayout.linarLayout.apk
+C:\Users\mathi\Documents\projets personel\mobile c#\linarLayout\linarLayout\obj\Debug\81\res\layout\activity_main.xml
+C:\Users\mathi\Documents\projets personel\mobile c#\linarLayout\linarLayout\obj\Debug\81\res\values\colors.xml
+C:\Users\mathi\Documents\projets personel\mobile c#\linarLayout\linarLayout\obj\Debug\81\res\values\ic_launcher_background.xml
+C:\Users\mathi\Documents\projets personel\mobile c#\linarLayout\linarLayout\obj\Debug\81\res\values\strings.xml
+C:\Users\mathi\Documents\projets personel\mobile c#\linarLayout\linarLayout\obj\Debug\81\res\values\styles.xml
+C:\Users\mathi\Documents\projets personel\mobile c#\linarLayout\linarLayout\obj\Debug\81\res\mipmap-anydpi-v26\ic_launcher.xml
+C:\Users\mathi\Documents\projets personel\mobile c#\linarLayout\linarLayout\obj\Debug\81\res\mipmap-anydpi-v26\ic_launcher_round.xml
+C:\Users\mathi\Documents\projets personel\mobile c#\linarLayout\linarLayout\obj\Debug\81\res\mipmap-hdpi\ic_launcher.png
+C:\Users\mathi\Documents\projets personel\mobile c#\linarLayout\linarLayout\obj\Debug\81\res\mipmap-hdpi\ic_launcher_foreground.png
+C:\Users\mathi\Documents\projets personel\mobile c#\linarLayout\linarLayout\obj\Debug\81\res\mipmap-hdpi\ic_launcher_round.png
+C:\Users\mathi\Documents\projets personel\mobile c#\linarLayout\linarLayout\obj\Debug\81\res\mipmap-mdpi\ic_launcher.png
+C:\Users\mathi\Documents\projets personel\mobile c#\linarLayout\linarLayout\obj\Debug\81\res\mipmap-mdpi\ic_launcher_foreground.png
+C:\Users\mathi\Documents\projets personel\mobile c#\linarLayout\linarLayout\obj\Debug\81\res\mipmap-mdpi\ic_launcher_round.png
+C:\Users\mathi\Documents\projets personel\mobile c#\linarLayout\linarLayout\obj\Debug\81\res\mipmap-xhdpi\ic_launcher.png
+C:\Users\mathi\Documents\projets personel\mobile c#\linarLayout\linarLayout\obj\Debug\81\res\mipmap-xhdpi\ic_launcher_foreground.png
+C:\Users\mathi\Documents\projets personel\mobile c#\linarLayout\linarLayout\obj\Debug\81\res\mipmap-xhdpi\ic_launcher_round.png
+C:\Users\mathi\Documents\projets personel\mobile c#\linarLayout\linarLayout\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher.png
+C:\Users\mathi\Documents\projets personel\mobile c#\linarLayout\linarLayout\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher_foreground.png
+C:\Users\mathi\Documents\projets personel\mobile c#\linarLayout\linarLayout\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher_round.png
+C:\Users\mathi\Documents\projets personel\mobile c#\linarLayout\linarLayout\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher.png
+C:\Users\mathi\Documents\projets personel\mobile c#\linarLayout\linarLayout\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher_foreground.png
+C:\Users\mathi\Documents\projets personel\mobile c#\linarLayout\linarLayout\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher_round.png
+C:\Users\mathi\Documents\projets personel\mobile c#\linarLayout\linarLayout\obj\Debug\81\R.cs.flag
+C:\Users\mathi\Documents\projets personel\mobile c#\linarLayout\linarLayout\obj\Debug\81\R.txt
+C:\Users\mathi\Documents\projets personel\mobile c#\linarLayout\linarLayout\obj\Debug\81\uploadflags.txt
+C:\Users\mathi\Documents\projets personel\mobile c#\linarLayout\linarLayout\bin\Debug\Mono.Android.pdb
+C:\Users\mathi\Documents\projets personel\mobile c#\linarLayout\linarLayout\bin\Debug\mscorlib.pdb
+C:\Users\mathi\Documents\projets personel\mobile c#\linarLayout\linarLayout\bin\Debug\System.Core.pdb
+C:\Users\mathi\Documents\projets personel\mobile c#\linarLayout\linarLayout\bin\Debug\System.pdb
+C:\Users\mathi\Documents\projets personel\mobile c#\linarLayout\linarLayout\bin\Debug\System.Xml.pdb
+C:\Users\mathi\Documents\projets personel\mobile c#\linarLayout\linarLayout\bin\Debug\System.Net.Http.pdb
+C:\Users\mathi\Documents\projets personel\mobile c#\linarLayout\linarLayout\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\mathi\Documents\projets personel\mobile c#\linarLayout\linarLayout\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\mathi\Documents\projets personel\mobile c#\linarLayout\linarLayout\bin\Debug\Mono.Security.pdb
+C:\Users\mathi\Documents\projets personel\mobile c#\linarLayout\linarLayout\obj\Debug\81\linksrc\linarLayout.pdb
+C:\Users\mathi\Documents\projets personel\mobile c#\linarLayout\linarLayout\obj\Debug\81\linksrc\Mono.Android.pdb
+C:\Users\mathi\Documents\projets personel\mobile c#\linarLayout\linarLayout\obj\Debug\81\linksrc\mscorlib.pdb
+C:\Users\mathi\Documents\projets personel\mobile c#\linarLayout\linarLayout\obj\Debug\81\linksrc\System.Core.pdb
+C:\Users\mathi\Documents\projets personel\mobile c#\linarLayout\linarLayout\obj\Debug\81\linksrc\System.pdb
+C:\Users\mathi\Documents\projets personel\mobile c#\linarLayout\linarLayout\obj\Debug\81\linksrc\System.Xml.pdb
+C:\Users\mathi\Documents\projets personel\mobile c#\linarLayout\linarLayout\obj\Debug\81\linksrc\System.Net.Http.pdb
+C:\Users\mathi\Documents\projets personel\mobile c#\linarLayout\linarLayout\obj\Debug\81\linksrc\System.Runtime.Serialization.pdb
+C:\Users\mathi\Documents\projets personel\mobile c#\linarLayout\linarLayout\obj\Debug\81\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\mathi\Documents\projets personel\mobile c#\linarLayout\linarLayout\obj\Debug\81\linksrc\Mono.Security.pdb
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\build.props
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\adb.props
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\linarLayout.csprojAssemblyReference.cache
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\stamp\_BuildLibraryImportsCache.stamp
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\res.flag
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\flata\compiled.flata
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\linarLayout.dll
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\linarLayout.pdb
+F:\Document\mobilec\linarLayout\linarLayout\bin\Debug\linarLayout.dll
+F:\Document\mobilec\linarLayout\linarLayout\bin\Debug\linarLayout.pdb
+F:\Document\mobilec\linarLayout\linarLayout\bin\Debug\linarLayout.linarLayout.apk
+F:\Document\mobilec\linarLayout\linarLayout\bin\Debug\linarLayout.linarLayout.aab
+F:\Document\mobilec\linarLayout\linarLayout\bin\Debug\linarLayout.linarLayout-Signed.aab
+F:\Document\mobilec\linarLayout\linarLayout\bin\Debug\linarLayout.linarLayout-Signed.apk
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\flata\D0EA3DA6FFB1453C.stamp
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\flata\4786DCCB6B97A77F.stamp
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\flata\7D08395A4ED7EA8E.stamp
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\flata\B1C4880170D7CDC6.stamp
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\flata\F580E7C865D7D0FE.stamp
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\flata\295DEBB60CD78356.stamp
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\flata\D0EA3DA6FFB1453C.flata
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\flata\4786DCCB6B97A77F.flata
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\flata\7D08395A4ED7EA8E.flata
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\flata\B1C4880170D7CDC6.flata
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\flata\F580E7C865D7D0FE.flata
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\flata\295DEBB60CD78356.flata
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\R.txt
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\R.cs.flag
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\linarLayout.csproj.CoreCompileInputs.cache
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\bin\linarLayout.linarLayout.apk
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\bin\base.zip
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\bin\linarLayout.linarLayout.aab
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\bin\linarLayout.linarLayout.apks
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\res\layout\activity_main.xml
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\res\values\colors.xml
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\res\values\ic_launcher_background.xml
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\res\values\strings.xml
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\res\values\styles.xml
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\res\mipmap-anydpi-v26\ic_launcher.xml
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\res\mipmap-anydpi-v26\ic_launcher_round.xml
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\res\mipmap-hdpi\ic_launcher.png
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\res\mipmap-hdpi\ic_launcher_foreground.png
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\res\mipmap-hdpi\ic_launcher_round.png
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\res\mipmap-mdpi\ic_launcher.png
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\res\mipmap-mdpi\ic_launcher_foreground.png
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\res\mipmap-mdpi\ic_launcher_round.png
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\res\mipmap-xhdpi\ic_launcher.png
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\res\mipmap-xhdpi\ic_launcher_foreground.png
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\res\mipmap-xhdpi\ic_launcher_round.png
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher.png
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher_foreground.png
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher_round.png
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher.png
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher_foreground.png
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher_round.png
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\uploadflags.txt
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\resolvedassemblies.hash
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\assets\Java.Interop.dll
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\assets\linarLayout.dll
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\assets\linarLayout.pdb
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\assets\machine.config
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\assets\Mono.Android.dll
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\assets\Mono.Android.pdb
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\assets\Mono.Security.dll
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\assets\Mono.Security.pdb
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\assets\mscorlib.dll
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\assets\mscorlib.pdb
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\assets\System.ComponentModel.Composition.dll
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\assets\System.ComponentModel.Composition.pdb
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\assets\System.Core.dll
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\assets\System.Core.pdb
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\assets\System.dll
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\assets\System.Drawing.Common.dll
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\assets\System.Drawing.Common.pdb
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\assets\System.Net.Http.dll
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\assets\System.Net.Http.pdb
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\assets\System.Numerics.dll
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\assets\System.Numerics.pdb
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\assets\System.pdb
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\assets\System.Runtime.dll
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\assets\System.Runtime.Serialization.dll
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\assets\System.Runtime.Serialization.pdb
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\assets\System.ServiceModel.Internals.dll
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\assets\System.ServiceModel.Internals.pdb
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\assets\System.Xml.dll
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\assets\System.Xml.pdb
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\assets\Xamarin.Android.Arch.Core.Common.dll
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\assets\Xamarin.Android.Arch.Lifecycle.Common.dll
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\assets\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\assets\Xamarin.Android.Support.Annotations.dll
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\assets\Xamarin.Android.Support.Compat.dll
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\assets\Xamarin.Android.Support.Core.UI.dll
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\assets\Xamarin.Android.Support.Core.Utils.dll
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\assets\Xamarin.Android.Support.Design.dll
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\assets\Xamarin.Android.Support.Fragment.dll
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\assets\Xamarin.Android.Support.Media.Compat.dll
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\assets\Xamarin.Android.Support.Transition.dll
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\typemap.jm.arm64-v8a.s
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\typemap.jm.armeabi-v7a.s
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\typemap.jm.x86.s
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\typemap.jm.x86_64.s
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\typemap.mj.arm64-v8a.s
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\typemap.mj.armeabi-v7a.s
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\typemap.mj.x86.s
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\typemap.mj.x86_64.s
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\AndroidManifest.xml
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\__environment__.txt
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\src\mono\MonoRuntimeProvider.java
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\bin\mono.android.jar
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\static.flag
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\buildid.txt
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\environment.arm64-v8a.s
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\environment.armeabi-v7a.s
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\environment.x86.s
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\environment.x86_64.s
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\src\android\support\compat\R.java
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\src\android\support\design\R.java
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\src\android\support\design\widget\Snackbar_SnackbarActionClickImplementor.java
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\src\android\support\mediacompat\R.java
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\src\android\support\transition\R.java
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\src\android\support\v7\appcompat\R.java
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\src\android\support\v7\recyclerview\R.java
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\src\android\support\v7\widget\Toolbar_NavigationOnClickEventDispatcher.java
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\src\crc64dfdad1987df60bee\MainActivity.java
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\src\linarlayout\linarlayout\R.java
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\src\md53ddad0d0c3d5b5d1906a3168cc6cf488\MainActivity.java
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\src\mono\android\app\ApplicationRegistration.java
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\src\mono\android\support\design\widget\AppBarLayout_OnOffsetChangedListenerImplementor.java
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemSelectedListenerImplementor.java
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\src\mono\android\support\design\widget\NavigationView_OnNavigationItemSelectedListenerImplementor.java
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\src\mono\android\support\design\widget\SwipeDismissBehavior_OnDismissListenerImplementor.java
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\src\mono\android\support\design\widget\TabLayout_OnTabSelectedListenerImplementor.java
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\src\mono\android\support\transition\Transition_TransitionListenerImplementor.java
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\src\mono\android\support\v4\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\src\mono\android\support\v4\app\SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\src\mono\android\support\v4\content\Loader_OnLoadCanceledListenerImplementor.java
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\src\mono\android\support\v4\content\Loader_OnLoadCompleteListenerImplementor.java
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\src\mono\android\support\v4\media\session\MediaSessionCompat_OnActiveChangeListenerImplementor.java
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\src\mono\android\support\v4\os\CancellationSignal_OnCancelListenerImplementor.java
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor.java
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor.java
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\src\mono\android\support\v4\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\src\mono\android\support\v4\view\ActionProvider_VisibilityListenerImplementor.java
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\src\mono\android\support\v4\view\AsyncLayoutInflater_OnInflateFinishedListenerImplementor.java
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\src\mono\android\support\v4\view\MenuItemCompat_OnActionExpandListenerImplementor.java
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\src\mono\android\support\v4\view\OnApplyWindowInsetsListenerImplementor.java
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\src\mono\android\support\v4\view\ViewPager_OnAdapterChangeListenerImplementor.java
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\src\mono\android\support\v4\view\ViewPager_OnPageChangeListenerImplementor.java
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\src\mono\android\support\v4\view\ViewPropertyAnimatorListenerImplementor.java
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\src\mono\android\support\v4\view\ViewPropertyAnimatorUpdateListenerImplementor.java
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\src\mono\android\support\v4\widget\DrawerLayout_DrawerListenerImplementor.java
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\src\mono\android\support\v4\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\src\mono\android\support\v4\widget\SlidingPaneLayout_PanelSlideListenerImplementor.java
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\src\mono\android\support\v4\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\src\mono\android\support\v7\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\src\mono\android\support\v7\app\ActionBar_OnNavigationListenerImplementor.java
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\src\mono\android\support\v7\app\ActionBar_TabListenerImplementor.java
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\src\mono\android\support\v7\widget\ActionMenuView_OnMenuItemClickListenerImplementor.java
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\src\mono\android\support\v7\widget\ContentFrameLayout_OnAttachListenerImplementor.java
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\src\mono\android\support\v7\widget\FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.java
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\src\mono\android\support\v7\widget\MenuItemHoverListenerImplementor.java
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\src\mono\android\support\v7\widget\PopupMenu_OnDismissListenerImplementor.java
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\src\mono\android\support\v7\widget\PopupMenu_OnMenuItemClickListenerImplementor.java
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\src\mono\android\support\v7\widget\RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor.java
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\src\mono\android\support\v7\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\src\mono\android\support\v7\widget\RecyclerView_OnItemTouchListenerImplementor.java
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\src\mono\android\support\v7\widget\RecyclerView_RecyclerListenerImplementor.java
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\src\mono\android\support\v7\widget\SearchView_OnCloseListenerImplementor.java
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\src\mono\android\support\v7\widget\SearchView_OnQueryTextListenerImplementor.java
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\src\mono\android\support\v7\widget\SearchView_OnSuggestionListenerImplementor.java
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\src\mono\android\support\v7\widget\ShareActionProvider_OnShareTargetSelectedListenerImplementor.java
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\src\mono\android\support\v7\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\src\mono\android\support\v7\widget\ViewStubCompat_OnInflateListenerImplementor.java
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\src\mono\MonoPackageManager_Resources.java
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\bin\packaged_resources
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\typemap.jm.arm64-v8a.o
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\typemap.mj.arm64-v8a.o
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\typemap.jm.armeabi-v7a.o
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\typemap.mj.armeabi-v7a.o
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\typemap.jm.x86.o
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\typemap.mj.x86.o
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\typemap.jm.x86_64.o
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\typemap.mj.x86_64.o
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\environment.arm64-v8a.o
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\environment.armeabi-v7a.o
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\environment.x86.o
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\environment.x86_64.o
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\app_shared_libraries\arm64-v8a\libxamarin-app.so
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\app_shared_libraries\armeabi-v7a\libxamarin-app.so
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\app_shared_libraries\x86\libxamarin-app.so
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\app_shared_libraries\x86_64\libxamarin-app.so
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\android\bin\classes.dex
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\stamp\_CleanIntermediateIfNuGetsChange.stamp
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\stamp\_CompileToDalvik.stamp
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\stamp\_ConvertCustomView.stamp
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\stamp\_ConvertLibraryResourcesCases.stamp
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\stamp\_ConvertResourcesCases.stamp
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\stamp\_GenerateJavaStubs.stamp
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\stamp\_GeneratePackageManagerJava.stamp
+F:\Document\mobilec\linarLayout\linarLayout\obj\Debug\81\stamp\_ResolveLibraryProjectImports.stamp
